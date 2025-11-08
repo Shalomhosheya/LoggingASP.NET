@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebLoggingDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcd3e984d56723f9ca94f13a7e8ef0a61e77375f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebLoggingDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebLoggingDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

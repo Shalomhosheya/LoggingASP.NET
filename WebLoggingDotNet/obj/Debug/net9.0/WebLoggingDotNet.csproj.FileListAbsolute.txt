@@ -25,3 +25,4 @@ C:\Users\shalom hosheya\RiderProjects\WebLogging\WebLoggingDotNet\obj\Debug\net9
 C:\Users\shalom hosheya\RiderProjects\WebLogging\WebLoggingDotNet\obj\Debug\net9.0\WebLoggingDotNet.pdb
 C:\Users\shalom hosheya\RiderProjects\WebLogging\WebLoggingDotNet\obj\Debug\net9.0\WebLoggingDotNet.genruntimeconfig.cache
 C:\Users\shalom hosheya\RiderProjects\WebLogging\WebLoggingDotNet\obj\Debug\net9.0\ref\WebLoggingDotNet.dll
+C:\Users\shalom hosheya\RiderProjects\WebLogging\WebLoggingDotNet\obj\Debug\net9.0\WebLoggingDotNet.sourcelink.json
